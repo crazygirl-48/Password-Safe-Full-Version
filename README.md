@@ -238,3 +238,6 @@ This repository serves as the official landing page for Password Safe. The softw
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Password Safe today!**
+
+---
+**Last updated:** 2026-09-09 15:45:21 UTC
