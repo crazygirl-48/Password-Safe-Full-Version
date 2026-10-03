@@ -240,4 +240,4 @@ This repository serves as the official landing page for Password Safe. The softw
 **Get the most recent version of Password Safe today!**
 
 ---
-**Last updated:** 2026-10-03 16:58:19 UTC
+**Last updated:** 2026-10-03 19:42:09 UTC
